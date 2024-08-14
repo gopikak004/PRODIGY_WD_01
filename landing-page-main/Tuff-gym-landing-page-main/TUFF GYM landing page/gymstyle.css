@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 80vw;
+}
+
+.section2{
+    padding-left: 40px;
+    padding-right: 40px;
+}
